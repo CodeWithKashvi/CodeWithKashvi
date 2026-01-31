@@ -13,6 +13,8 @@ I am a **passionate coder** who loves learning new technologies and building coo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -51,3 +53,7 @@ I am a **passionate coder** who loves learning new technologies and building coo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=tokyo-night&area=true" />
 </p>
+
+---
+
+⭐️ From [CodeWithKashvi](https://github.com/CodeWithKashvi)
