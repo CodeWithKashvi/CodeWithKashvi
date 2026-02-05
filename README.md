@@ -1,16 +1,17 @@
 # Hello 👋, I'm Kashvi Jain  
 ### Beginner Developer 🚀  
 
-I am a **passionate coder** who loves learning new technologies and building cool things 💻✨  
+I’m a **passionate learner** who enjoys coding, exploring new technologies,  
+and building small but meaningful projects 💻✨  
 
 ---
 
 ## 🛠 Skills  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 </p>
 
 ---
@@ -18,8 +19,17 @@ I am a **passionate coder** who loves learning new technologies and building coo
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithKashvi&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithKashvi&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CodeWithKashvi&show_icons=true&theme=tokyonight" 
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithKashvi&layout=compact&theme=tokyonight" 
+    width="320"
+  />
 </p>
 
 ---
@@ -27,23 +37,10 @@ I am a **passionate coder** who loves learning new technologies and building coo
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeWithKashvi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithKashvi&theme=tokyonight&margin-w=10" />
+  <img 
+    src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=tokyonight" 
+    width="420"
+  />
 </p>
 
 ---
@@ -51,7 +48,20 @@ I am a **passionate coder** who loves learning new technologies and building coo
 ## 📈 GitHub Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=tokyo-night&area=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=tokyo-night&area=true" 
+    width="850"
+  />
+</p>
+
+---
+
+## 👀 Profile Visitors  
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=CodeWithKashvi&label=Profile%20views&color=0e75b6&style=flat" 
+  />
 </p>
 
 ---
