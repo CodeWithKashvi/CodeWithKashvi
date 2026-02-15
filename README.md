@@ -1,69 +1,76 @@
-# Hello 👋, I'm Kashvi Jain  
-### Beginner Developer 🚀  
+<h1 align="center">Code with me!</h1>
 
-I’m a **passionate learner** who enjoys coding, exploring new technologies,  
-and building small but meaningful projects 💻✨  
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
+</div>
 
-## 🛠 Skills  
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
----
+###
 
-## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithkashvi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithkashvi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=CodeWithKashvi&show_icons=true&theme=tokyonight" 
-    width="420"
-  />
-</p>
+###
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithKashvi&layout=compact&theme=tokyonight" 
-    width="320"
-  />
-</p>
+<div align="center">
+  <img height="375" src="https://digiunivietnam.com/wp-content/uploads/2021/08/Python-game-4-pacman.gif"  />
+</div>
 
----
+###
+## 🌟 Star History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
+  <img alt="GPRG Star History Chart" src="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
+</picture>
 
-## 🔥 GitHub Streak  
+<div align="center">
+  <img src="https://count.getloli.com/@:codewithkashvi?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=tokyonight" 
-    width="420"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity Graph  
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=tokyo-night&area=true" 
-    width="850"
-  />
-</p>
-
----
-
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=CodeWithKashvi&label=Profile%20views&color=0e75b6&style=flat" 
-  />
-</p>
-
----
-
-⭐️ From [CodeWithKashvi](https://github.com/CodeWithKashvi)
+###
