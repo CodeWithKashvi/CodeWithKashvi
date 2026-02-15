@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,8 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: CodeWithKashvi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=4169E1
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
