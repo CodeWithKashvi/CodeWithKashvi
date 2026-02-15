@@ -5,9 +5,14 @@
 </p>
 
 <br>
+<h2 align="center">👑 My GitHub Contributions</h2>
+
+<br>
+
 <div align="center">
-  <img src="https://count.getloli.com/@:codewithkashvi?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 <br><br>
 
