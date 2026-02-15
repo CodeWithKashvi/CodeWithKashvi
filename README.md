@@ -1,10 +1,5 @@
-<h1 align="center">Code with me! 💎</h1>
+<h1 align="center">Code with me! 💚</h1>
 
-<p align="center">
-  💻 Engineering Student • 🚀 Building & Learning • 💎 Aqua Dev
-</p>
-
-<br>
 <h2 align="center">👑 My GitHub Contributions</h2>
 
 <br>
@@ -12,7 +7,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/output/github-contribution-grid-snake.svg" />
 </div>
-
 
 <br><br>
 
@@ -45,25 +39,18 @@
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=default&hide_border=true&background=FFFFFF&ring=5FB3C8&fire=5FB3C8&currStreakLabel=5FB3C8&sideLabels=5FB3C8&currStreakNum=5FB3C8&dates=5FB3C8" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=default&hide_border=true&background=FFFFFF&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32&sideLabels=2E7D32&currStreakNum=2E7D32&dates=2E7D32" height="160"/>
 </div>
 
 <br><br>
 
-<h2 align="center">💎 My GitHub Activity</h2>
-
-<br>
-
-<!-- Contribution Grid -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/5FB3C8/CodeWithKashvi"/>
-</div>
+<h2 align="center">💚 My GitHub Activity</h2>
 
 <br>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=github-compact&area=true&hide_border=true&radius=16&color=5FB3C8&line=5FB3C8&point=5FB3C8" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=github-compact&area=true&hide_border=true&radius=16&color=2E7D32&line=2E7D32&point=2E7D32" height="300"/>
 </div>
 
 <br>
