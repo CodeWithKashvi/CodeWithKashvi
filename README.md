@@ -64,5 +64,33 @@
 </div>
 
 <br><br>
+<h2 align="center">🐙 Build Your Own Octocat</h2>
+
+<div align="center">
+
+Want to design your own GitHub character?  
+Take a break. Get creative. Build your own Octocat 👇
+
+<br><br>
+
+<a href="https://myoctocat.com/build-your-octocat/" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octocat.png" width="200"/>
+</a>
+
+<br><br>
+
+✨ Design it. Download it. Flex it on your profile. ✨  
+
+<br><br>
+
+<h3>🎮 Visitor Challenge</h3>
+
+Design your Octocat and tag me if it's cooler than mine 😌💜  
+Let’s see who has the best creativity.
+
+</div>
+
+<br><br>
+
 
 
