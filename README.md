@@ -65,30 +65,29 @@
 
 <br><br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-## 🐙 Build Your Own Octocat [🔝](#--gifs-for-readme--)
+## Animated Hello [🔝](#--gifs-for-readme--)
 
-> 🎨 Create your own GitHub character:
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Build Your Own Octocat [🔝](#--gifs-for-readme--)
+
 > https://myoctocat.com/build-your-octocat/
 
-<br>
-
-<a href="https://myoctocat.com/build-your-octocat/" target="_blank">
-  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/main/octocat.png" width="260" alt="Build Your Octocat">
-</a>
+![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
 
 <br>
 
-> 🌟 Explore amazing Octocats:
-> https://octodex.github.com/
+> Awesome Octocats: https://octodex.github.com/
 
-<br>
-
-<a href="https://octodex.github.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="420" alt="Octodex Gallery">
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
 <br><br>
 
-🎮 **Visitor Challenge:**  
-Design your Octocat and tag me if it's cooler than mine 😌💜  
-Let’s see who has the best creativity.
+🎮 **Visitor Challenge**
+
+Design your own Octocat and tag me if it's cooler than mine 😌💜  
+Let’s see who wins the creativity battle.
