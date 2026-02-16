@@ -43,14 +43,12 @@
 </div>
 
 <br><br>
-
-<h2 align="center">💚 My GitHub Activity</h2>
-
-<br>
+<h2 align="center">💜 Live Animated Activity</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/main/activity-glow.svg" width="700"/>
+  <img src="https://github-animated-activity.vercel.app/api/activity" width="800"/>
 </div>
+
 
 <br>
 <hr>
