@@ -46,7 +46,8 @@
 <h2 align="center">💜 Live Animated Activity</h2>
 
 <div align="center">
- <img src="https://github-animated-activity.vercel.app/api/activity?v=2" width="800"/>
+  <img src="https://github-animated-activity.vercel.app/api/activity" width="800"/>
+
 </div>
 
 
