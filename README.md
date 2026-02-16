@@ -65,29 +65,40 @@
 
 <br><br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-## 🐙 Build Your Own Octocat
+<h2 align="center">🐙 Build Your Own Octocat</h2>
 
-<div align="center">
-
-Design your own GitHub character and have some fun 🎨✨  
+<p align="center">
+Design your own GitHub character and have some fun 🎨✨
+</p>
 
 <br>
 
-<a href="https://myoctocat.com/build-your-octocat/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png" width="450" alt="Build Your Octocat">
-</a>
-
-<br><br>
-
-🌟 Explore more amazing designs here:  
-https://octodex.github.com/
-
-<br><br>
-
-🎮 **Visitor Challenge**  
-Design your Octocat and tag me if it's cooler than mine 😌💜  
-Let’s see who wins the creativity battle.
-
+<div align="center">
+  <a href="https://myoctocat.com/build-your-octocat/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png" 
+         width="500" 
+         alt="Build Your Own Octocat"/>
+  </a>
 </div>
+
+<br>
+
+<p align="center">
+🌟 <b>Explore more amazing designs:</b>  
+<br>
+<a href="https://octodex.github.com/" target="_blank">
+https://octodex.github.com/
+</a>
+</p>
+
+<br>
+
+<h3 align="center">🎮 Visitor Challenge</h3>
+
+<p align="center">
+Design your Octocat and tag me if it's cooler than mine 😌💜  
+<br>
+Let’s see who wins the creativity battle.
+</p>
 
 
