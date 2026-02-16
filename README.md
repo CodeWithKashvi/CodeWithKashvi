@@ -65,24 +65,29 @@
 
 <br><br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## 🐙 Build Your Own Octocat
 
-## Build Your Own Octocat [🔝](#--gifs-for-readme--)
+<div align="center">
 
-> https://myoctocat.com/build-your-octocat/
-
-![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
+Design your own GitHub character and have some fun 🎨✨  
 
 <br>
 
-> Awesome Octocats: https://octodex.github.com/
+<a href="https://myoctocat.com/build-your-octocat/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png" width="450" alt="Build Your Octocat">
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+<br><br>
 
-<br><br>     
+🌟 Explore more amazing designs here:  
+https://octodex.github.com/
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<br><br>
 
+🎮 **Visitor Challenge**  
+Design your Octocat and tag me if it's cooler than mine 😌💜  
+Let’s see who wins the creativity battle.
+
+</div>
 
 
