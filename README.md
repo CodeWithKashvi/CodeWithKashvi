@@ -48,9 +48,8 @@
 
 <br>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithKashvi&theme=github-compact&area=true&hide_border=true&radius=16&color=2E7D32&line=2E7D32&point=2E7D32" height="300"/>
+  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/main/activity-glow.svg" width="700"/>
 </div>
 
 <br>
