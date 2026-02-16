@@ -1,74 +1,84 @@
 <h1 align="center">Code with me! 💚</h1>
 
+<hr width="60%">
+
 <h2 align="center">👑 My GitHub Contributions</h2>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/output/github-contribution-grid-snake.svg"
+       width="850"/>
 </div>
 
 <br><br>
 
 <!-- Tech Stack -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+  <img width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
 </div>
 
 <br><br>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=default&hide_border=true&background=FFFFFF&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32&sideLabels=2E7D32&currStreakNum=2E7D32&dates=2E7D32" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=default&hide_border=true&background=FFFFFF&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32&sideLabels=2E7D32&currStreakNum=2E7D32&dates=2E7D32"
+       width="650"/>
 </div>
 
 <br><br>
+
+<hr width="60%">
+
 <h2 align="center">💜 Live Animated Activity</h2>
 
-<div align="center">
-  <img src="https://github-animated-activity.vercel.app/api/activity" width="800"/>
+<br>
 
+<div align="center">
+  <img src="https://github-animated-activity.vercel.app/api/activity"
+       width="900"/>
 </div>
 
+<br><br>
 
-<br>
-<hr>
-<br>
+<hr width="60%">
 
 <h2 align="center">🎮 When I'm Not Coding...</h2>
 
 <br>
 
 <div align="center">
-  <img src="https://digiunivietnam.com/wp-content/uploads/2021/08/Python-game-4-pacman.gif" height="210"/>
+  <img src="https://digiunivietnam.com/wp-content/uploads/2021/08/Python-game-4-pacman.gif"
+       width="600"/>
 </div>
 
 <br><br>
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h2 align="center">Build Your Own Octocat 🔝</h2>
+<hr width="60%">
+
+<h2 align="center">🐙 Build Your Own Octocat 🔝</h2>
+
+<br>
 
 <p align="center">
   <a href="https://myoctocat.com/build-your-octocat/" target="_blank">
@@ -76,12 +86,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png"
-       alt="Build Personal Octocat">
-</p>
-
 <br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png"
+       width="400"
+       alt="Build Personal Octocat">
+</div>
+
+<br><br>
 
 <p align="center">
   🌟 Awesome Octocats:
@@ -90,11 +103,13 @@
   </a>
 </p>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
        width="500"
        alt="NUX_Octodex">
-</p>
+</div>
 
 <br><br>
 
