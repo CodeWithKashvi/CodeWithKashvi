@@ -64,33 +64,25 @@
 </div>
 
 <br><br>
-<h2 align="center">🐙 Build Your Own Octocat</h2>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div align="center">
+## Build Your Own Octocat [🔝](#--gifs-for-readme--)
 
-Want to design your own GitHub character?  
-Take a break. Get creative. Build your own Octocat 👇
+> https://myoctocat.com/build-your-octocat/
 
-<br><br>
+![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
 
-<a href="https://myoctocat.com/build-your-octocat/" target="_blank">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octocat.png" width="200"/>
-</a>
+<br>
 
-<br><br>
+> Awesome Octocats: https://octodex.github.com/
 
-✨ Design it. Download it. Flex it on your profile. ✨  
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
-<br><br>
+<br><br>     
 
-<h3>🎮 Visitor Challenge</h3>
-
-Design your Octocat and tag me if it's cooler than mine 😌💜  
-Let’s see who has the best creativity.
-
-</div>
-
-<br><br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
 
