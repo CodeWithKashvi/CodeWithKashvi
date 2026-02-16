@@ -64,30 +64,43 @@
 </div>
 
 <br><br>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-## Animated Hello [🔝](#--gifs-for-readme--)
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<h2 align="center">Build Your Own Octocat 🔝</h2>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<p align="center">
+  <a href="https://myoctocat.com/build-your-octocat/" target="_blank">
+    https://myoctocat.com/build-your-octocat/
+  </a>
+</p>
 
-## Build Your Own Octocat [🔝](#--gifs-for-readme--)
-
-> https://myoctocat.com/build-your-octocat/
-
-![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png"
+       alt="Build Personal Octocat">
+</p>
 
 <br>
 
-> Awesome Octocats: https://octodex.github.com/
+<p align="center">
+  🌟 Awesome Octocats:
+  <a href="https://octodex.github.com/" target="_blank">
+    https://octodex.github.com/
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+       width="500"
+       alt="NUX_Octodex">
+</p>
 
 <br><br>
 
-🎮 **Visitor Challenge**
+<h3 align="center">🎮 Visitor Challenge</h3>
 
-Design your own Octocat and tag me if it's cooler than mine 😌💜  
+<p align="center">
+Design your own Octocat and tag me if it's cooler than mine 😌💜<br>
 Let’s see who wins the creativity battle.
+</p>
