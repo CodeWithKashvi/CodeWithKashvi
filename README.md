@@ -65,40 +65,30 @@
 
 <br><br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h2 align="center">🐙 Build Your Own Octocat</h2>
+## 🐙 Build Your Own Octocat [🔝](#--gifs-for-readme--)
 
-<p align="center">
-Design your own GitHub character and have some fun 🎨✨
-</p>
-
-<br>
-
-<div align="center">
-  <a href="https://myoctocat.com/build-your-octocat/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png" 
-         width="500" 
-         alt="Build Your Own Octocat"/>
-  </a>
-</div>
+> 🎨 Create your own GitHub character:
+> https://myoctocat.com/build-your-octocat/
 
 <br>
 
-<p align="center">
-🌟 <b>Explore more amazing designs:</b>  
-<br>
-<a href="https://octodex.github.com/" target="_blank">
-https://octodex.github.com/
+<a href="https://myoctocat.com/build-your-octocat/" target="_blank">
+  <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/main/octocat.png" width="260" alt="Build Your Octocat">
 </a>
-</p>
 
 <br>
 
-<h3 align="center">🎮 Visitor Challenge</h3>
+> 🌟 Explore amazing Octocats:
+> https://octodex.github.com/
 
-<p align="center">
+<br>
+
+<a href="https://octodex.github.com/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="420" alt="Octodex Gallery">
+</a>
+
+<br><br>
+
+🎮 **Visitor Challenge:**  
 Design your Octocat and tag me if it's cooler than mine 😌💜  
-<br>
-Let’s see who wins the creativity battle.
-</p>
-
-
+Let’s see who has the best creativity.
