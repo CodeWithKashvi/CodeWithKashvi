@@ -94,15 +94,7 @@
        alt="Build Personal Octocat">
 </div>
 
-<br><br>
-
-<p align="center">
-  🌟 Awesome Octocats:
-  <a href="https://octodex.github.com/" target="_blank">
-    https://octodex.github.com/
-  </a>
-</p>
-
+<br>
 <br>
 
 <div align="center">
