@@ -45,6 +45,13 @@
 
 <hr width="60%">
 
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithKashvi&theme=default&hide_border=true&background=FFFFFF&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32&sideLabels=2E7D32&currStreakNum=2E7D32&dates=2E7D32"
+       width="650"/>
+</div>
+
+
 <h2 align="center">Live Animated Activity💚</h2>
 
 <br>
