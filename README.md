@@ -63,15 +63,6 @@
 
 <br><br>
 
-<hr width="60%">
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170."
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=swari77&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 <h2 align="center">🎮 When I'm Not Coding...</h2>
 
 <br>
