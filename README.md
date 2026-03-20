@@ -1,10 +1,8 @@
 <h1 align="center">Code with me! 💚</h1>
 
-<hr width="60%">
+<hr width="60%">  
 
 <h2 align="center">👑 My GitHub Contributions</h2>
-
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CodeWithKashvi/CodeWithKashvi/output/github-contribution-grid-snake.svg"
